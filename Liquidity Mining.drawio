@@ -1,1 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T04:54:43.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="14.4.9" etag="EkXmBpeu7q3Qsb3Cz9vn" type="github"><diagram id="wxlVtRZR6M-YcN9UWfss">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T04:55:38.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Gi8g6lBvfRHFTW1eNgXQ" version="14.4.9" type="github">
+  <diagram id="wxlVtRZR6M-YcN9UWfss" name="Page-1">
+    <mxGraphModel dx="2938" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="10000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EdNeTXNwl0O9vQOB_147-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="620" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="143.75" width="326.25" height="326.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-13" value="2 million tokens = coin = shares = ownership" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="385" y="100" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-14" value="Project" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="245" width="82.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-15" value="Alex" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-16" value="" style="endArrow=none;html=1;fontSize=15;exitX=1.018;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EdNeTXNwl0O9vQOB_147-14" target="EdNeTXNwl0O9vQOB_147-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="580" as="sourcePoint" />
+            <mxPoint x="450" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-17" value="represents" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="EdNeTXNwl0O9vQOB_147-16">
+          <mxGeometry x="-0.1062" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-18" value="" style="endArrow=none;html=1;fontSize=15;entryX=0.009;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EdNeTXNwl0O9vQOB_147-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="93" y="270" as="sourcePoint" />
+            <mxPoint x="377" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-19" value="ownership" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="EdNeTXNwl0O9vQOB_147-18">
+          <mxGeometry x="0.1549" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-20" value="10 Million USD" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="590" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-21" value="" style="endArrow=classic;html=1;fontSize=15;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EdNeTXNwl0O9vQOB_147-15" target="EdNeTXNwl0O9vQOB_147-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="780" as="sourcePoint" />
+            <mxPoint x="429.22247398809805" y="433.9653267276044" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-22" value="ETH" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-23" value="" style="endArrow=classic;html=1;fontSize=15;exitX=0.836;exitY=0.093;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EdNeTXNwl0O9vQOB_147-20" target="EdNeTXNwl0O9vQOB_147-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-24" value="Each token is worth 5 USD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-25" value="" style="endArrow=none;html=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-26" value="Project token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-27" value="Liquidity&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EdNeTXNwl0O9vQOB_147-28" value="Decentralized Finance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="650" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T04:22:40.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="14.5.6" etag="c-rl3kEeaUJ-FSkwrQ4o" type="github"><diagram id="3_4BmKaa-64iwBxLedUV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-04T04:25:37.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="AojcI6-rDeLpFnYRCvaL" version="14.5.6" type="github">
+  <diagram id="3_4BmKaa-64iwBxLedUV" name="Page-1">
+    <mxGraphModel dx="1884" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="10000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jkbp8fYnJhk9B-rufm5h-2" value="Indonesian P.T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jkbp8fYnJhk9B-rufm5h-3" value="Venture Capital Indonesia" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jkbp8fYnJhk9B-rufm5h-5" value="Foundation Switzerland" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jkbp8fYnJhk9B-rufm5h-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jkbp8fYnJhk9B-rufm5h-3" target="jkbp8fYnJhk9B-rufm5h-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="460" as="sourcePoint" />
+            <mxPoint x="720" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkbp8fYnJhk9B-rufm5h-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jkbp8fYnJhk9B-rufm5h-2" target="jkbp8fYnJhk9B-rufm5h-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="460" as="sourcePoint" />
+            <mxPoint x="720" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
